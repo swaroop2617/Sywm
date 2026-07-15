@@ -1,0 +1,110 @@
+[
+  {
+    "id": "P001",
+    "title": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "image": "/images/headphones.jpg",
+    "rating": 4.6,
+    "description": "Over-ear wireless headphones with noise isolation and up to 30 hours of battery life."
+  },
+  {
+    "id": "P002",
+    "title": "Smart Fitness Watch",
+    "category": "Wearables",
+    "price": 3999,
+    "image": "/images/smartwatch.jpg",
+    "rating": 4.5,
+    "description": "Track heart rate, sleep, workouts, and receive smartphone notifications."
+  },
+  {
+    "id": "P003",
+    "title": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 2899,
+    "image": "/images/keyboard.jpg",
+    "rating": 4.7,
+    "description": "RGB mechanical keyboard with tactile switches and customizable lighting effects."
+  },
+  {
+    "id": "P004",
+    "title": "Wireless Ergonomic Mouse",
+    "category": "Accessories",
+    "price": 1199,
+    "image": "/images/mouse.jpg",
+    "rating": 4.4,
+    "description": "Comfortable ergonomic mouse with adjustable DPI and silent clicks."
+  },
+  {
+    "id": "P005",
+    "title": "15.6-inch Laptop Backpack",
+    "category": "Bags",
+    "price": 1599,
+    "image": "/images/backpack.jpg",
+    "rating": 4.5,
+    "description": "Water-resistant backpack with padded laptop compartment and multiple storage pockets."
+  },
+  {
+    "id": "P006",
+    "title": "Portable Bluetooth Speaker",
+    "category": "Audio",
+    "price": 1799,
+    "image": "/images/speaker.jpg",
+    "rating": 4.3,
+    "description": "Compact speaker delivering rich sound with up to 12 hours of playtime."
+  },
+  {
+    "id": "P007",
+    "title": "USB-C Fast Charger 65W",
+    "category": "Accessories",
+    "price": 999,
+    "image": "/images/charger.jpg",
+    "rating": 4.6,
+    "description": "Fast charging USB-C adapter compatible with laptops, tablets, and smartphones."
+  },
+  {
+    "id": "P008",
+    "title": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 699,
+    "image": "/images/water-bottle.jpg",
+    "rating": 4.5,
+    "description": "Vacuum insulated bottle that keeps drinks hot or cold for hours."
+  },
+  {
+    "id": "P009",
+    "title": "Casual Cotton T-Shirt",
+    "category": "Fashion",
+    "price": 799,
+    "image": "/images/tshirt.jpg",
+    "rating": 4.2,
+    "description": "Soft 100% cotton crew-neck t-shirt designed for everyday comfort."
+  },
+  {
+    "id": "P010",
+    "title": "Running Sports Shoes",
+    "category": "Footwear",
+    "price": 3299,
+    "image": "/images/shoes.jpg",
+    "rating": 4.7,
+    "description": "Lightweight running shoes with breathable mesh and cushioned sole."
+  },
+  {
+    "id": "P011",
+    "title": "Ceramic Coffee Mug",
+    "category": "Home & Kitchen",
+    "price": 399,
+    "image": "/images/mug.jpg",
+    "rating": 4.4,
+    "description": "Premium ceramic coffee mug with a comfortable handle and 350 ml capacity."
+  },
+  {
+    "id": "P012",
+    "title": "Portable SSD 1TB",
+    "category": "Storage",
+    "price": 6499,
+    "image": "/images/ssd.jpg",
+    "rating": 4.8,
+    "description": "High-speed USB 3.2 portable SSD with 1TB storage for fast file transfers."
+  }
+]
